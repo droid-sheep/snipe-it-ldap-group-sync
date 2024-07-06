@@ -13,8 +13,8 @@ This Node.js script synchronizes user group memberships from an Active Directory
 
 1. **Clone the repository:**
     ```sh
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/droid-sheep/snipe-it-ldap-group-sync.git
+    cd snipe-it-ldap-group-sync
     ```
 
 2. **Install dependencies:**
