@@ -1,0 +1,15 @@
+{
+  "name": "snipe-it-group-sync",
+  "version": "1.0.0",
+  "description": "Synchronizes ldap ad group memberships to snipe it groups",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "droid-sheep <sheep@droidsheep.net>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "ldapjs": "^3.0.7"
+  }
+}
